@@ -9,7 +9,7 @@ const comentarios = [
 ];
 const reactions = 5;
 
-export default function Home() {
+export default function Details() {
   return (
     <div className="flex flex-col items-center container ">
         <img className = {`${styles.imageCover} mt-5`} src="https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/59c4f5655bafe82c692a7052/gato-marron_0.jpg" alt="" />
